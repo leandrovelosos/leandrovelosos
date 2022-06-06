@@ -20,3 +20,5 @@
 
 <br>
 <hr>
+
+!![snake gif](https://github.com/leandrovelosos/leandrovelosos/blob/output/github-contribution-grid-snake.svg)
