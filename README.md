@@ -2,7 +2,7 @@
 ### Prazer!! Me chamo Leandro 🤙
 <hr>
 
-### Meu obetivo é ser um desenvolvedor Front End ✨
+### Meu objetivo é ser um desenvolvedor Front End ✨
 <hr>
 
 ### Tecnologias de interesse 👀
