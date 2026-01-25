@@ -47,5 +47,5 @@
 <p>
     <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=leandrovelosos&show_icons=true&locale=pt-br&layout=compact"
-        alt="leandrovelosos" />
+        alt="leandroiveloso" />
 </p>
