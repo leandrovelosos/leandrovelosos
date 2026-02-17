@@ -44,8 +44,3 @@
 </spam>
 </p>
 
-<p>
-    <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=leandroiveloso&show_icons=true&locale=pt-br&layout=compact"
-        alt="leandroiveloso" />
-</p>
