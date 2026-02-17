@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Leandro</h1>
-<h3 align="center">Estudante de desenvolvimento web e mobile</h3>
+<h3 align="center">Graduado em Sistemas de Informação - Focando em desenvolvimento de produtos de software</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 
